@@ -6,10 +6,10 @@ import {
   Scripts,
   ScrollRestoration,
 } from "react-router";
-import {usePuterStore} from "~/lib/Puter";
 
 import type { Route } from "./+types/root";
 import "./app.css";
+import {usePuterStore} from "~/lib/puter";
 import {useEffect} from "react";
 
 export const links: Route.LinksFunction = () => [
@@ -26,7 +26,6 @@ export const links: Route.LinksFunction = () => [
 ];
 
 export function Layout({ children }: { children: React.ReactNode }) {
-
   const { init } = usePuterStore();
 
   useEffect(() => {
