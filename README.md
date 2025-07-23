@@ -1,15 +1,14 @@
 <div align="center">
   <br />
+  <h3 align="center">Resumai - Your Resume Analyzer</h3>
   <br />
-
+  <p align="center">Made using</p>
   <div>
     <img alt="Static Badge" src="https://img.shields.io/badge/React-4c84f3?style=for-the-badge&logo=react&logoColor=white">
         <img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
         <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="TypeScript" />
     <img alt="Static Badge" src="https://img.shields.io/badge/Puter.js-181758?style=for-the-badge&logoColor=white">
   </div>
-
-  <h3 align="center">Resumai - Your Resume Analyzer</h3>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
@@ -18,8 +17,6 @@
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
-5. 🔗 [Assets](#links)
-6. 🚀 [More](#more)
 
 ## <a name="introduction">✨ Introduction</a>
 
