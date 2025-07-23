@@ -4,7 +4,7 @@ import {useLocation, useNavigate} from "react-router";
 
 export const meta = () => ([
     { title: 'Resumai | Auth' },
-    { name: 'description', content: 'Login to your acoount' },
+    { name: 'description', content: 'Login to your account' },
 ])
 
 const Auth = () => {

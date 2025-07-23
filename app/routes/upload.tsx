@@ -1,4 +1,4 @@
-import React from 'react';
+import React, {type FormEvent} from 'react';
 import Navbar from "~/components/Navbar";
 import {useState} from "react";
 import FileUploader from "~/components/FileUploader";
@@ -60,6 +60,7 @@ const Upload = () =>{
         await kv.set(`resume:${uuid}`,JSON.stringify(data));
         setStatusText('Analysis complete , redirecting');
         console.log(data);
+        navigate(`/resume/${uuid}`);
     }
 
     const handleSubmit = (e: FormEvent<HTMLFormElement>) => {
