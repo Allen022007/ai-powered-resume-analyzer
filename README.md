@@ -95,9 +95,3 @@ npm run dev
 <br />
 <br />
 
-
-
-
-<div align="center">
-     Build this project step by step with the help of an detailed tutorial on <a href="https://www.youtube.com/watch?v=XUkNR-JfHwo" target="_blank"><b>JavaScript Mastery</b></a>
-</div>
